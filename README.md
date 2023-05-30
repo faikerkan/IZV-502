@@ -1,4 +1,6 @@
-# simulasyon
+# IZV 502 İş Simülasyonu
+
+
 IZVA
 
 2023 Bahar Ders Planı
